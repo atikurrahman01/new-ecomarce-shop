@@ -1,0 +1,33 @@
+.new-container{
+    margin-top: 5%;
+}
+
+.background-color{
+    background-color: #fceae8;
+    color:#ff136f;
+    border-radius: 10px; 
+}
+.batton-class{
+
+    background-color: #ff136f;
+    color: white;
+}
+.margin-gap{
+    margin-left: 12px;
+}
+.batton{
+    padding-left: 3%;
+    padding-bottom: 5%;
+}
+.all-text{
+    color:#ff136f;
+}
+.sub-bg{
+    background-color:#fceae8; 
+    border-radius: 10px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.text-align{
+    text-align: center;
+}
